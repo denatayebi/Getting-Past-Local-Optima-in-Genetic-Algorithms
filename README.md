@@ -3,14 +3,17 @@
 The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by using the **Rosenthal potential function**, which smooths the optimization landscape by penalizing uneven element coverage across sets. This enables escaping local optima and finding higher-quality solutions, especially in challenging instances.
 ## Run GA-WSCP code
 
-This will display the functions `add()` and `multiply()` as separate code blocks on GitHub.
 
----
+This will display the code block with a "Copy" button when viewed on GitHub.
 
-### Summary
+### 4. **Multi-line Code Block Example**
 
-1. Use triple backticks (```) to create a code block.
-2. Optionally, specify the language for syntax highlighting.
-3. GitHub will automatically provide a copy button for the code block when viewed on the platform.
+If your code is more extensive, you can create multi-line code blocks the same way:
 
-Let me know if you need help with specific code examples or further guidance!
+```markdown
+```python
+def multiply(a, b):
+    result = a * b
+    return result
+
+print(multiply(2, 3))
