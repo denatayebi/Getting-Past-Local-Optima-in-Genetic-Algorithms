@@ -12,7 +12,7 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 
 - Build GA-WSCP
 
-  ```markdown
+  ```bash
   cd GA-WSCP_Algorithm/GA-WSCP
   make
   ```
@@ -20,7 +20,7 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
   
      To run the GA-WSCP, use the following command with the required arguments:
 
-     ```markdown
+     ```bash
       ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
       ```
      
@@ -32,6 +32,6 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 
      Example:
  
-      ```markdown
-          ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
+      ```bash
+     ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
       ```
