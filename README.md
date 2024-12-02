@@ -32,8 +32,8 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
          <number of iterations>: Number of iterations (generations) the algorithm will run.
 
   Example:
- ```bash
-  ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
-   ```     
+   ```bash
+    ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
+     ```     
 
   This will execute the GA-WSCP on the input file scp41.txt, with a population size of 100 and 500 iterations.
