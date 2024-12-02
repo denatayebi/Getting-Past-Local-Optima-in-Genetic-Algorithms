@@ -25,15 +25,15 @@ Navigate to the GA-WSCP directory and run the make command
   ```bash
    ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
    ```     
-    Parameters:
+  Parameters:
 
          <directory of instance>: Path to the directory containing the input instance file.
          <number of population>: Number of individuals in the population for the genetic algorithm.
          <number of iterations>: Number of iterations (generations) the algorithm will run.
 
-     Example:
- 
-      ```bash
-     ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
-      ```
-    This will execute the GA-WSCP on the input file scp41.txt, with a population size of 100 and 500 iterations.
+  Example:
+ ```bash
+  ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
+   ```     
+
+  This will execute the GA-WSCP on the input file scp41.txt, with a population size of 100 and 500 iterations.
