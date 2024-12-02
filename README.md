@@ -18,18 +18,18 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
   ```
 - Run GA-WSCP
   
- To run the GA-WSCP, use the following command with the required arguments:
+     To run the GA-WSCP, use the following command with the required arguments:
 
- ```markdown
-  ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
-  ```
-**Parameters:**
+     ```markdown
+      ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
+      ```
+    **Parameters:**
 
-    * <directory of instance>: Path to the directory containing the input instance file.
-    * <number of population>: Number of individuals in the population for the genetic algorithm.
-    * <number of iterations>: Number of iterations (generations) the algorithm will run.
+         <directory of instance>: Path to the directory containing the input instance file.
+         <number of population>: Number of individuals in the population for the genetic algorithm.
+         <number of iterations>: Number of iterations (generations) the algorithm will run.
 
- **Example**
+     **Example**
  
       ```markdown
           ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
