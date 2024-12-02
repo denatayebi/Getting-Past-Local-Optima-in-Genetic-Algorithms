@@ -37,3 +37,5 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 **Output Format**
 
 **Related Paper**
+
+Tayebi, D., Ray, S., & Ajwani, D. (2024, September). An Improved Genetic Algorithm for Set Cover using Rosenthal Potential. In 2024 19th Conference on Computer Science and Intelligence Systems (FedCSIS) (pp. 689-694). IEEE.
