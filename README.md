@@ -8,10 +8,11 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 
 ```markdown
 git clone https://github.com/chuanluocs/NuSC-Algorithm.git
-
+ ```
 
 - Build GA-WSCP
 
 ```markdown
 cd GA-WSCP_Algorithm/GA-WSCP
 make
+ ```
