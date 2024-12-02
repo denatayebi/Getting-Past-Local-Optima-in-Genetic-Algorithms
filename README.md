@@ -6,7 +6,7 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 ## Run GA-WSCP code
 - Clone the repository
 
-  ```markdown
+  ```bash
    git clone https://github.com/chuanluocs/NuSC-Algorithm.git
    ```
 
