@@ -1,5 +1,5 @@
 # Getting-Past-Local-Optima-in-Genetic-Algorithms
-# $${\color{blue}IGA-SCP:\space Improved \space Genetic\space Algorithm\space for\space solving\space Set\space Cover\space Problem}$$
+# $${\color{blue}IGA-WSCP:\space Improved \space Genetic\space Algorithm\space for\space solving\space Set\space Cover\space Problem}$$
 
 
-# Run GA-SCP code
+## Run GA-WSCP code
