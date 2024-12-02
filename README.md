@@ -32,3 +32,8 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
      ```     
 
   This will execute the GA-WSCP on the input file scp41.txt, with a population size of 100 and 500 iterations.
+
+
+**Output Format**
+
+**Related Paper**
