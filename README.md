@@ -4,16 +4,6 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 ## Run GA-WSCP code
 
 
-This will display the code block with a "Copy" button when viewed on GitHub.
-
-### 4. **Multi-line Code Block Example**
-
-If your code is more extensive, you can create multi-line code blocks the same way:
-
 ```markdown
-```python
-def multiply(a, b):
-    result = a * b
-    return result
+git clone https://github.com/chuanluocs/NuSC-Algorithm.git
 
-print(multiply(2, 3))
