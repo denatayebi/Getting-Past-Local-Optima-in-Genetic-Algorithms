@@ -30,6 +30,7 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
     * <number of iterations>: Number of iterations (generations) the algorithm will run.
 
  **Example**
+ 
       ```markdown
-      ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
+          ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
       ```
