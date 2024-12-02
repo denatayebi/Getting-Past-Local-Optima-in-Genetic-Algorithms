@@ -12,6 +12,8 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 
 - Build GA-WSCP
 
+Navigate to the GA-WSCP directory and run the make command
+
   ```bash
   cd GA-WSCP_Algorithm/GA-WSCP
   make
