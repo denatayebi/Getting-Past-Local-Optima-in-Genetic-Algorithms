@@ -16,3 +16,9 @@ git clone https://github.com/chuanluocs/NuSC-Algorithm.git
 cd GA-WSCP_Algorithm/GA-WSCP
 make
  ```
+- Run GA-WSCP
+  Instruction for running GA-WSCP
+
+  ```markdown
+  ./NuSC  <directory of instance> <number of population> <number of iteration>
+  ```
