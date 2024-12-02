@@ -17,6 +17,7 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
   make
   ```
 - Run GA-WSCP
+  
  To run the GA-WSCP, use the following command with the required arguments:
 
  ```markdown
