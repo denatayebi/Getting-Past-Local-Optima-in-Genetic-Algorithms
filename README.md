@@ -22,10 +22,9 @@ Navigate to the GA-WSCP directory and run the make command
   
      To run the GA-WSCP, use the following command with the required arguments:
 
-     ```bash
-      ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
-      ```
-     
+  ```bash
+   ./GA-WSCP  <directory of instance> <number of population> <number of iteration>
+   ```     
     Parameters:
 
          <directory of instance>: Path to the directory containing the input instance file.
@@ -37,3 +36,4 @@ Navigate to the GA-WSCP directory and run the make command
       ```bash
      ./GA-WSCP ../Benchmarks/OR-Small/scp41.txt  100 500
       ```
+    This will execute the GA-WSCP on the input file scp41.txt, with a population size of 100 and 500 iterations.
