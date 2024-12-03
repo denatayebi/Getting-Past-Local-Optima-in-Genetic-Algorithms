@@ -1,5 +1,5 @@
 # Getting-Past-Local-Optima-in-Genetic-Algorithms
-## $${\color{blue}\space Improved \space Genetic\space Algorithm\space for\space solving\space Set\space Cover\space Problem\space (IGA-WSCP}$$
+## $${\color{blue}\space Improved \space Genetic\space Algorithm\space for\space solving\space Set\space Cover\space Problem\space (IGA-WSCP)}$$
 The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by using the **Rosenthal potential function**, which smooths the optimization landscape by penalizing uneven element coverage across sets. This enables escaping local optima and finding higher-quality solutions, especially in challenging instances.
 
 
