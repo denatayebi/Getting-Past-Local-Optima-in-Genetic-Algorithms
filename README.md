@@ -36,18 +36,18 @@ The algorithm improves a genetic algorithm for the Weighted Set Cover Problem by
 
 **Output Format**
 
-Iteration  Best_fitness  best_value   best_step  Time </br>
-     -1       14056.8       5763           0      0
-     0        12522.7        2507       0        0.25
-     1        6404.42        1358       1        0.42
-     2        4195.01        1117       2        0.58
-     3        2771.17        795       3        0.73
-     4        2202.2        688       4        0.87
-     5        1557.31        557       5        1
-     6        1411.73        525       6        1.12
-     7        1197.22        510       7        1.24
-     8        1057.06        479       8        1.35
-     9        936.343        465       9        1.47
+Iteration\t  Best_fitness  best_value   best_step  Time </br>
+     -1 \t      14056.8       5763           0      0    </br>
+     0        12522.7        2507       0        0.25  </br>
+     1        6404.42        1358       1        0.42   </br>
+     2        4195.01        1117       2        0.58   </br>
+     3        2771.17        795       3        0.73    </br>
+     4        2202.2        688       4        0.87    </br>
+     5        1557.31        557       5        1     </br>
+     6        1411.73        525       6        1.12   </br>
+     7        1197.22        510       7        1.24  </br>
+     8        1057.06        479       8        1.35  </br>
+     9        936.343        465       9        1.47   </br>
      
 ### Related Paper
 
